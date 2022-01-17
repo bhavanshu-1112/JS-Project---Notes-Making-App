@@ -1,3 +1,3 @@
 
 
-This is some changes I am making to the repo. Hope this will get reflected to my Github as well. This app is made with Javascript. Bootstrap is also used here.
+This is some changes I am making to the repo. Hope this will get reflected to my Github as well. This app is made with the help of Javascript language. Bootstrap is also used here.
